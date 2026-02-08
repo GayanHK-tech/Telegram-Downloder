@@ -1,5 +1,5 @@
 # Telegram-Downloder
-A Program that developed with python for download telegram content that with any asigend telegram account easily with customizing your downloading requirements.
+A Media Downloader that developed with python for download telegram content with any asigend telegram account easily with customizing your downloading requirements.
 
 1st- Download the project file.
 
