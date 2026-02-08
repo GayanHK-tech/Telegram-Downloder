@@ -11,4 +11,4 @@ DO NOT - Direct open python program ("telegram_media_downloader.py")
 IMPORTANT - if any kind of issue - install python and telython manualy on your computer and then try again for the bat file "run_telegram_downloader.bat"
           - Need good internet connection while running the program (Faster connection give you better experince)
 
-ENJOY !!!
+Enjoy !!!
